@@ -1,1 +1,2 @@
-# proj-codecademy
+# MY PROJECTS FROM CODECADEMY
+
